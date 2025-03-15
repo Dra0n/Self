@@ -1,0 +1,14 @@
+{
+  "token": "MTIzMTYzODY0NjQxNTk0OTgzNA.GO9Mk2.LkBlBLXsC6HLVlpjFcybeD31IKz34LgOPVb-Ck",
+  "prefix": "!",
+  "NormalPriceText": "500000",
+  "NormalPriceVoice": "600000",
+  "NormalPriceAuto": "800000",
+  "NormalPriceAlive": "550000",
+  "NormalPriceStream": "700000",
+  "category": "1333895357645455432",
+  "owner": "1087401297705173042",
+  "logBuy": "1181157644208177192",
+  "sendBuy": "1181157644208177192",
+  "webhookErrors": "https://discord.com/api/webhooks/1338091049955885067/4PujPYuNT32_e5OJuAwLwmGJH7kunnos7s5M1Wen7trjriK3QCBripLg6OzCB2z1pzUK"
+}
